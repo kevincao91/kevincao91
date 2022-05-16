@@ -26,7 +26,7 @@
 <p>&emsp;&emsp;I am working on the research of artificial intelligence and intelligent detection application technology.</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;It's too late to start, but it's never too late. Spring flowers and autumn fruits, hard work will definitely pay off ...</p>
-<p>&emsp;&emsp;嗨，我是曹科，毕业于西南交通大学人工智能学院软件工程专业，</p>
+<p>✍️&nbsp;&nbsp;嗨，我是曹科，毕业于西南交通大学人工智能学院软件工程专业，</p>
 <p>&emsp;&emsp;正在致力于人工智能与智能检测应用技术的研究。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系，</p>
 <p>&emsp;&emsp;开始太晚，但总归不算太迟。春华秋实，努力就一定会有收获。。。</p>
@@ -40,15 +40,15 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevincao91&repo=kevin.ai.vehicle_detection&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
-💪 正在学习: 
+💪 正在使用: 
 
 &emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![Pytorch](https://img.shields.io/badge/Pytorch-E34F26?style=flat-square&logo=pytorch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+
 
 🧠 计划学习:
 
