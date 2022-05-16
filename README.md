@@ -43,19 +43,18 @@
 💪 正在使用: 
 
 &emsp;&emsp;
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/Python-00BFFF?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-yellow?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-FF8C00?style=flat-square&logo=pytorch)
 
 🧠 计划学习:
 
 &emsp;&emsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
 🧰 常用的工具:
