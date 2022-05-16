@@ -80,9 +80,6 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
-<!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-
 <!-- profile-3d-contrib -->
 <div align="center"><img src="https://raw.githubusercontent.com/kevincao91/kevincao91/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 <br>
@@ -105,3 +102,6 @@
 <!-- metrics 基础资料 -->
 <div align="center"><img src="https://metrics.lecoq.io/kevincao91?template=classic&config.timezone=Asia%2FShanghai" alt="base metrics"/></div>
 <br>
+
+<!-- just img -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
