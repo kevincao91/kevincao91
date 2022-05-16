@@ -43,12 +43,12 @@
 💪 正在使用: 
 
 &emsp;&emsp;
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![Pytorch](https://img.shields.io/badge/Pytorch-E34F26?style=flat-square&logo=pytorch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
 🧠 计划学习:
 
@@ -87,6 +87,8 @@
 <!-- profile-3d-contrib -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
+<!-- GitHub 活动统计图 -->
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=kevincao91&theme=xcode" /> </div>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=kevincao91&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
